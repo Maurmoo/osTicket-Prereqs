@@ -82,6 +82,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Step 3: Install All Dependencies
 ![image](https://github.com/user-attachments/assets/928f45e9-103a-4448-a8ee-6e9588471f6f)
 ![image](https://github.com/user-attachments/assets/34ad9eba-d195-48a0-a046-0d09605fa6b9)
+![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
+![image](https://github.com/user-attachments/assets/100482cf-c9c4-4832-9d32-9413d3ae4c13)
 
 ## Credits
 This Project is based on the template by Josh madakor. Ive customized it to suit my needs while retaining the structure and inspiration from the original work.
