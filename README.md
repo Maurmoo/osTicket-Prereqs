@@ -48,12 +48,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-Download the osTicket-Installation-Files.zip into the VM.
+
   
 ![image](https://github.com/user-attachments/assets/c8652e6f-0351-471e-a05b-d6a0bc6e5fc3)
 
 </p>
 <p>
+Download the osTicket-Installation-Files.zip into the VM.
   
 osTicket Installation Files link: https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
   
