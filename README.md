@@ -17,27 +17,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- Step 1: Create and Configure the Azure VM
+- Step 2: Download osTicket Installation Files
+- Step 3: Enable IIS in Windows
+- Step 4: Install Required Components
+- Step 5: Configure IIS
+- Step 6: Install osTicket
+- Step 7: Enable PHP Extensions
+- Step 8: Configure osTicket
+- Step 9: Set Up the Database
+- Step 10: Finalize Installation
 <h2>Installation Steps</h2>
 
 <p>
+  
+  ## Step 1: Create and Configure the Azure VM
   
 ![image](https://github.com/user-attachments/assets/c33e733e-903c-4ce8-bc5c-f012f1209d7f)
 
 </p>
 <p>
-Step 1: Create and Configure the Azure VM
-Create a Windows 10 VM with the following specifications:
-Name: osticket-vm
-vCPUs: 4
-Username: labuser
-Password: osTicketPassword1!
-Log into the VM using Remote Desktop.
+  
+- Created a Windows 10 Virtual Machine on Azure with the following specifications:
+- Name: Ticket
+- vCPUs: 4
+- Username: Labuser
+- Password: Password1234
+- Logged into the VM using Remote Desktop. IP address: 20.106.188.26
 </p>
 <br />
 
