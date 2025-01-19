@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 1: Create and Configure the Azure VM
 - Step 2: Download osTicket Installation Files
-- Step 3: Enable IIS in Windows
+- Step 3: Enable IIS and CGI in Windows
 - Step 4: Install Required Components
 - Step 5: Configure IIS
 - Step 6: Install osTicket
