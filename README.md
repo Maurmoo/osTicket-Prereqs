@@ -85,6 +85,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
 ![image](https://github.com/user-attachments/assets/100482cf-c9c4-4832-9d32-9413d3ae4c13)
 ![image](https://github.com/user-attachments/assets/50034a01-1550-4585-a83c-8f5bd0cf955b)
+![image](https://github.com/user-attachments/assets/b32d179c-88f3-45fd-88ca-8c583014c1e2)
 
 ## Credits
 This Project is based on the template by Josh madakor. Ive customized it to suit my needs while retaining the structure and inspiration from the original work.
