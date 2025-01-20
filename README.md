@@ -182,12 +182,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 ## Step 5: Install and Configure osTicket
+## Deploy osTicket Files
 ![image](https://github.com/user-attachments/assets/abc41aab-b8a2-4b08-884e-7da1f49d9b52)
-
+</p>
+<p>
+  
 - From the osTicket-Installation-Files folder, unzip osTicket-v1.15.8.zip.
 - Copy the upload folder to C:\inetpub\wwwroot.
 - Rename the folder from upload to osTicket.
 - Reload IIS Stop and start the IIS server.
+</p>
+<br />
+
+## Access osTicket
+
+
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
