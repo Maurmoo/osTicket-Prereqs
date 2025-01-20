@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 1: Create and Configure the Azure VM
 - Step 2: Download osTicket Installation Files
 - Step 3: Enable IIS and CGI in Windows
-- Step 4: Install Required Components
+- Step 4: Install All Dependencies
 - Step 5: Configure IIS
 - Step 6: Install osTicket
 - Step 7: Enable PHP Extensions
@@ -79,7 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 3: Install All Dependencies
+## Step 4: Install All Dependencies
 ## PHPmanager
 ![image](https://github.com/user-attachments/assets/34ad9eba-d195-48a0-a046-0d09605fa6b9)
 
