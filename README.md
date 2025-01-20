@@ -264,6 +264,16 @@ Step 7: Configure osTicket
 
 ## Step 8: Setup Database
 
+![image](https://github.com/user-attachments/assets/04f68133-0b44-41f3-8dc2-9443d575a765)
+</p>
+<p>
+
+- Open HeidiSQL and create a new session (root/root).
+- Right-click "unnamed" Create new / Database
+- Named "osTicket" Then click ok
+</p>
+<br /
+
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
