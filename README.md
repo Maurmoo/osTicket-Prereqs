@@ -171,7 +171,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Registered PHP
 - In IIS, go to PHP Manager / Select Register PHP.
 - Provide the path: C:\PHP\php-cgi.exe.
 - Go back to osTicket home
@@ -182,7 +181,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## Step 5: Install and Configure osTicket
 ![image](https://github.com/user-attachments/assets/55800529-e7eb-4ba0-9f9f-be768729a04c)
-- Deploy osTicket Files
 - From the osTicket-Installation-Files folder, unzip osTicket-v1.15.8.zip.
 - Copy the upload folder to C:\inetpub\wwwroot.
 - Rename the folder from upload to osTicket.
