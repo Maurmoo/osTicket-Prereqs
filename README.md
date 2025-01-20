@@ -157,6 +157,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Step 4: Configure IIS and PHP
 ![image](https://github.com/user-attachments/assets/0b36eb19-cf79-4e96-8601-5dbf9dab6022)
 ![image](https://github.com/user-attachments/assets/f7e7a652-c910-41ab-84af-15435a09037e)
+![image](https://github.com/user-attachments/assets/853039fb-f95d-4a19-98e1-1aa85736a1cc)
 
 ## Credits
 This Project is based on the template by Josh madakor. Ive customized it to suit my needs while retaining the structure and inspiration from the original work.
