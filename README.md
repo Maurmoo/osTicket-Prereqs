@@ -66,7 +66,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Step 3: Enable IIS and CGI in Windows 
 
 <p>
-  
+ 
 ![image](https://github.com/user-attachments/assets/ad071228-111e-4a9d-8e12-13defa3d2ca7)
 
 </p>
@@ -80,20 +80,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 ## Step 3: Install All Dependencies
+## PHPmanager
 ![image](https://github.com/user-attachments/assets/34ad9eba-d195-48a0-a046-0d09605fa6b9)
 
 </p>
 <p>
   
 - From the osTicket-Installation-Files folder, Install PHPManagerForIIS_V1.5.0.msi.
-  
+## Rewrite_amd  
 ![image](https://github.com/user-attachments/assets/928f45e9-103a-4448-a8ee-6e9588471f6f)
 
 - From the same folder, Install rewrite_amd64_en-US.msi.
 
 </p>
 <br />
-
+## PHP folder
 ![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
 </p>
 <p>
@@ -103,6 +104,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+## Extract PHP
 ![image](https://github.com/user-attachments/assets/ada5d48e-09a5-4125-be79-3ffb0171cf31)
 
 </p>
@@ -114,6 +116,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+## VC_redist
 ![image](https://github.com/user-attachments/assets/100482cf-c9c4-4832-9d32-9413d3ae4c13)
 
 </p>
@@ -124,6 +127,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+## MYSQL
 ![image](https://github.com/user-attachments/assets/50034a01-1550-4585-a83c-8f5bd0cf955b)
 
 </p>
@@ -139,6 +143,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+## HeidiSQL
 ![image](https://github.com/user-attachments/assets/b32d179c-88f3-45fd-88ca-8c583014c1e2)
 
 </p>
