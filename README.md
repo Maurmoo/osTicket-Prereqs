@@ -180,6 +180,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+## Step 5: Install and Configure osTicket
+
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
