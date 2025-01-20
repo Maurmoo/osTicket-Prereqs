@@ -174,12 +174,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Registered PHP:
 - In IIS, go to PHP Manager / Select Register PHP.
 - Provide the path: C:\PHP\php-cgi.exe.
-- Reload IIS:
+- Go back to osTicket home
 - Stop and start the IIS server.
 
 </p>
 <br />
 
 ## Credits
-This Project is based on the template by Josh madakor. Ive customized it to suit my needs while retaining the structure and inspiration from the original work.
+This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
