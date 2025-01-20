@@ -196,7 +196,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 ## Access osTicket
-
+![image](https://github.com/user-attachments/assets/bebb164e-c76e-4002-abd7-6fb04d584242)
+</p>
+<p>
+  
+- In IIS, navigate to Sites → Default Web Site → osTicket.
+- On the right, click *Browse:80 to open osTicket in the browser.
+</p>
+<br />
 
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
