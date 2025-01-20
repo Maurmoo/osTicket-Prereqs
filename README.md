@@ -21,12 +21,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 2: Download osTicket Installation Files
 - Step 3: Enable IIS and CGI in Windows
 - Step 4: Install All Dependencies
-- Step 5: Install and Configure osTicket
-- Step 6: Install osTicket
+- Step 5: Configure IIS and PHP
+- Step 6: Install and ConfiosTicketgure
 - Step 7: Enable PHP Extensions
 - Step 8: Configure osTicket
 - Step 9: Set Up the Database
-- Step 10: Finalize Installation
+- Step 10: Finalize osTicket Installation
 <h2>Installation Steps</h2>
 
 <p>
@@ -181,7 +181,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 6: Install and Configure osTicket
+## Step 6: Install and ConfiosTicketgure 
 ## Deploy osTicket Files
 ![image](https://github.com/user-attachments/assets/46300533-5c07-4cf2-8443-4fdb9475aaff)
 
@@ -272,7 +272,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 9: Finalize osTicket Installation
+## Step 10: Finalize osTicket Installation
 ## Information
 ![image](https://github.com/user-attachments/assets/77ed3d05-9288-4e2e-82e6-cee3312fd0d7)
 
