@@ -81,20 +81,49 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## Step 3: Install All Dependencies
 ![image](https://github.com/user-attachments/assets/34ad9eba-d195-48a0-a046-0d09605fa6b9)
+</p>
+<p>
 - From the osTicket-Installation-Files folder, Install PHPManagerForIIS_V1.5.0.msi.
 ![image](https://github.com/user-attachments/assets/928f45e9-103a-4448-a8ee-6e9588471f6f)
 - From the same folder, Install rewrite_amd64_en-US.msi.
+</p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/ada5d48e-09a5-4125-be79-3ffb0171cf31)
+</p>
+<p>
+
+</p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
-
-![image](https://github.com/user-attachments/assets/100482cf-c9c4-4832-9d32-9413d3ae4c13)
+</p>
+<p>
 - Create the directory C:\PHP.
 - Unziped php-7.3.8-nts-Win32-VC15-x86.zip from the osTicket-Installation-Files folder into C:\PHP.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/100482cf-c9c4-4832-9d32-9413d3ae4c13)
+</p>
+<p>
+
+</p>
+<br />
+
 ![image](https://github.com/user-attachments/assets/50034a01-1550-4585-a83c-8f5bd0cf955b)
+</p>
+<p>
+
+</p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/b32d179c-88f3-45fd-88ca-8c583014c1e2)
+</p>
+<p>
+
+</p>
+<br />
 
 ## Step 4: Configure IIS and PHP
 
