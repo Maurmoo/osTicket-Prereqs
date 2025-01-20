@@ -144,7 +144,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
--From the folder, run the HeidiSQL installer.
+- From the folder, run the HeidiSQL installer.
 
 </p>
 <br />
