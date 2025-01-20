@@ -72,8 +72,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Open Control Panel → Programs → Turn Windows features on or off.
-- Expand World Wide Web Services → Application Development Features.
+- Open Control Panel / Programs / Turn Windows features on or off.
+- Expand World Wide Web Services / Application Development Features.
 - Check the box for CGI and click OK.
 
 </p>
@@ -122,7 +122,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- From the folder, run VC_redist.x86.exe.
+- From the folder, Install VC_redist.x86.exe.
 
 </p>
 <br />
@@ -149,15 +149,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- From the folder, run the HeidiSQL installer.
+- From the folder, Install the HeidiSQL installer.
 
 </p>
 <br />
 
 ## Step 4: Configure IIS and PHP
 ![image](https://github.com/user-attachments/assets/0b36eb19-cf79-4e96-8601-5dbf9dab6022)
+</p>
+<p>
+  
+- Opened IIS Manager as Administrator.
+
+</p>
+<br />
+
 ![image](https://github.com/user-attachments/assets/f7e7a652-c910-41ab-84af-15435a09037e)
 ![image](https://github.com/user-attachments/assets/853039fb-f95d-4a19-98e1-1aa85736a1cc)
+</p>
+<p>
+  
+Registered PHP:
+In IIS, go to PHP Manager / Select Register PHP.
+Provide the path: C:\PHP\php-cgi.exe.
+Reload IIS:
+Stop and start the IIS server.
+
+</p>
+<br />
 
 ## Credits
 This Project is based on the template by Josh madakor. Ive customized it to suit my needs while retaining the structure and inspiration from the original work.
