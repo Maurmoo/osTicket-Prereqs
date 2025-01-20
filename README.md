@@ -230,11 +230,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-Step 7: Configure osTicket
+## Step 7: Configure osTicket
 ## Rename the Configuration File
 ![image](https://github.com/user-attachments/assets/a8e9e534-66c1-421b-bce1-40673a33a916)
 </p>
 <p>
+  
 - Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to ost-config.php.
 
 </p>
@@ -257,13 +258,10 @@ Step 7: Configure osTicket
 - Under Basic Permissions, check the box for Full Control.
 - Click OK to confirm.
 - Click Apply and then OK to finalize the changes.
-
-
 </p>
-<br /
+<br />
 
 ## Step 8: Setup Database
-
 ![image](https://github.com/user-attachments/assets/04f68133-0b44-41f3-8dc2-9443d575a765)
 </p>
 <p>
@@ -272,7 +270,38 @@ Step 7: Configure osTicket
 - Right-click "unnamed" Create new / Database
 - Named "osTicket" Then click ok
 </p>
-<br /
+<br />
+
+## Step 9: Finalize osTicket Installation
+## Information
+![image](https://github.com/user-attachments/assets/77ed3d05-9288-4e2e-82e6-cee3312fd0d7)
+
+</p>
+<p>
+- Go back to osTicket webpage
+- Click Continue
+- Fill out all information till you reach Database Settings
+</p>
+<br />
+
+## Set MySQL database details
+![image](https://github.com/user-attachments/assets/33579309-2cb4-44cb-83e8-4ca657163906)
+</p>
+<p>
+  
+- In the browser Set MySQL database details:
+- Database: osTicket
+- Username: root
+- Password: root
+- Click Install Now!
+- Verify the installation at:
+- Admin Login: http://localhost/osTicket/scp/login.php
+- End-User Portal: http://localhost/osTicket/
+</p>
+<br />
+
+## Installation Finished
+![image](https://github.com/user-attachments/assets/9e711ecc-cf87-4164-ac27-cdc44c71ff3f)
 
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
