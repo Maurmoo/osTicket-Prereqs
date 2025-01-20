@@ -171,11 +171,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-Registered PHP:
-In IIS, go to PHP Manager / Select Register PHP.
-Provide the path: C:\PHP\php-cgi.exe.
-Reload IIS:
-Stop and start the IIS server.
+- Registered PHP:
+- In IIS, go to PHP Manager / Select Register PHP.
+- Provide the path: C:\PHP\php-cgi.exe.
+- Reload IIS:
+- Stop and start the IIS server.
 
 </p>
 <br />
