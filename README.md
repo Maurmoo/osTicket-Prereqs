@@ -180,7 +180,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 ## Step 5: Install and Configure osTicket
-![image](https://github.com/user-attachments/assets/55800529-e7eb-4ba0-9f9f-be768729a04c)
+![image](https://github.com/user-attachments/assets/abc41aab-b8a2-4b08-884e-7da1f49d9b52)
+
 - From the osTicket-Installation-Files folder, unzip osTicket-v1.15.8.zip.
 - Copy the upload folder to C:\inetpub\wwwroot.
 - Rename the folder from upload to osTicket.
