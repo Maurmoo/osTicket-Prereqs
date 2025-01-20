@@ -94,8 +94,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
 ## PHP folder
 ![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
+
 </p>
 <p>
   
