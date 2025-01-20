@@ -156,7 +156,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 4: Configure IIS and PHP
+## Step 5: Configure IIS and PHP
 ## Opened IIS Manager as Administrator
 ![image](https://github.com/user-attachments/assets/0b36eb19-cf79-4e96-8601-5dbf9dab6022)
 </p>
@@ -181,7 +181,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 5: Install and Configure osTicket
+## Step 6: Install and Configure osTicket
 ## Deploy osTicket Files
 ![image](https://github.com/user-attachments/assets/46300533-5c07-4cf2-8443-4fdb9475aaff)
 
@@ -205,7 +205,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 6: Enable PHP Extensions
+## Step 7: Enable PHP Extensions
 ## PHP extensions
 ![image](https://github.com/user-attachments/assets/e1fe43d7-32ec-4c45-a877-cb8436da835e)
 
@@ -230,7 +230,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 7: Configure osTicket
+## Step 8: Configure osTicket
 ## Rename the Configuration File
 ![image](https://github.com/user-attachments/assets/a8e9e534-66c1-421b-bce1-40673a33a916)
 </p>
@@ -261,7 +261,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 8: Setup Database
+## Step 9: Setup Database
 ![image](https://github.com/user-attachments/assets/04f68133-0b44-41f3-8dc2-9443d575a765)
 </p>
 <p>
