@@ -206,6 +206,64 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 ## Step 6: Enable PHP Extensions
+## PHP extensions
+![image](https://github.com/user-attachments/assets/e1fe43d7-32ec-4c45-a877-cb8436da835e)
+
+</p>
+<p>
+
+
+- In IIS, go to Sites → Default Web Site → osTicket → PHP Manager.
+- Click Enable or disable an extension and enable:
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
+</p>
+<br />
+
+## Refresh Page
+![image](https://github.com/user-attachments/assets/14896e69-a47b-4138-b108-7417f68262c9)
+</p>
+<p>
+
+- Refresh the osTicket site in the browser to observe the changes.
+</p>
+<br />
+
+Step 7: Configure osTicket
+## Rename the Configuration File
+![image](https://github.com/user-attachments/assets/a8e9e534-66c1-421b-bce1-40673a33a916)
+</p>
+<p>
+- Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to ost-config.php.
+
+</p>
+<br />
+
+##  Setting Permissions to everyone on ost-config.php
+![image](https://github.com/user-attachments/assets/11cda075-f4de-4025-b5a7-f6e27715b245)
+</p>
+<p>
+
+- Right-click on the file and select Properties.
+- Navigate to the Security tab and click on Advanced.
+- In the Advanced Security Settings window: Click Disable Inheritance (if inheritance is enabled).
+- When prompted, choose Remove all inherited permissions.
+- Click Add to set new permissions.
+- In the Permission Entry window:
+- Click Select a Principal.
+- In the Enter the object name field, type Everyone and click OK.
+- Back in the Permission Entry window:
+- Under Basic Permissions, check the box for Full Control.
+- Click OK to confirm.
+- Click Apply and then OK to finalize the changes.
+
+
+</p>
+<br /
+
+## Step 8: Setup Database
+
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
