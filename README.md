@@ -94,20 +94,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
+</p>
+<p>
+  
+- Created the directory C:\PHP.
+  
+</p>
+<br />
+
 ![image](https://github.com/user-attachments/assets/ada5d48e-09a5-4125-be79-3ffb0171cf31)
 
 </p>
 <p>
-
-</p>
-<br />
-
-![image](https://github.com/user-attachments/assets/ec88a5f6-1e14-4236-be60-59cb7a04b187)
-
-</p>
-<p>
   
-- Create the directory C:\PHP.
+
 - Unziped php-7.3.8-nts-Win32-VC15-x86.zip from the osTicket-Installation-Files folder into C:\PHP.
 
 </p>
