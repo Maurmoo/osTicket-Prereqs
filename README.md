@@ -85,6 +85,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 - From the osTicket-Installation-Files folder, Install PHPManagerForIIS_V1.5.0.msi.
+  
 ![image](https://github.com/user-attachments/assets/928f45e9-103a-4448-a8ee-6e9588471f6f)
 - From the same folder, Install rewrite_amd64_en-US.msi.
 </p>
