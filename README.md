@@ -183,7 +183,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## Step 5: Install and Configure osTicket
 ## Deploy osTicket Files
-![image](https://github.com/user-attachments/assets/abc41aab-b8a2-4b08-884e-7da1f49d9b52)
+![image](https://github.com/user-attachments/assets/46300533-5c07-4cf2-8443-4fdb9475aaff)
+
 </p>
 <p>
   
