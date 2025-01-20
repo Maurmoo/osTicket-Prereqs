@@ -118,6 +118,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+  
+- From the folder, run VC_redist.x86.exe.
 
 </p>
 <br />
@@ -126,6 +128,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+  
+- From the folder, Install mysql-5.5.62-win32.msi.
+- Select Typical Setup.
+- Launch the Configuration Wizard after installation.
+- Use Standard Configuration and set:
+- Username: root
+- Password: root.
 
 </p>
 <br />
@@ -134,6 +143,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+  
+-From the folder, run the HeidiSQL installer.
 
 </p>
 <br />
