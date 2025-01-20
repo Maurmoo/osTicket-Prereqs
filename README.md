@@ -303,6 +303,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Installation Finished
 ![image](https://github.com/user-attachments/assets/9e711ecc-cf87-4164-ac27-cdc44c71ff3f)
 
+## Verify the installation 
+![image](https://github.com/user-attachments/assets/c099fd1e-9bad-4546-9a0c-38898dd7acf9)
+</p>
+<p>
+  
+Admin Login: http://localhost/osTicket/scp/login.php
+End-User Portal: http://localhost/osTicket/
+</p>
+<be />
+
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
 https://github.com/joshmadakorcc/post-install-config
