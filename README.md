@@ -39,11 +39,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 - Created a Windows 10 Virtual Machine on Azure with the following specifications
-- Name: Ticket
-- vCPUs: 4
-- Username: Labuser
-- Password: Password1234
-- Logged into the VM using Remote Desktop. IP address: 20.106.188.26
+- Name: **Ticket**
+- vCPUs: **4**
+- Username: **Labuser**
+- Password: **Password1234**
+- Logged into the VM using Remote Desktop. IP address: **20.106.188.26**
 </p>
 <br />
 
