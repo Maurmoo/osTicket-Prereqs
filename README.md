@@ -313,9 +313,8 @@ End-User Portal: http://localhost/osTicket/
 </p>
 <be />
 
-## Credits
-This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work.
-https://github.com/joshmadakorcc/post-install-config
+## Conclusion
+In conclusion, installing osTicket on a Windows 10 virtual machine in Azure involves configuring IIS, PHP, and MySQL, along with deploying the osTicket files. By following the installation steps, you ensure that the help desk system is ready for use, offering an efficient ticketing solution for managing incidents and improving support workflows. This setup provides a streamlined platform for both admins and end-users, enhancing overall customer service and operational efficiency.
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 
