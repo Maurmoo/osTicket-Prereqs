@@ -17,16 +17,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-##  Step 1: Create and Configure the Azure VM
-##  Step 2: Download osTicket Installation Files
-##  Step 3: Enable IIS and CGI in Windows
-##  Step 4: Install All Dependencies
-##  Step 5: Configure IIS and PHP
-##  Step 6: Install and ConfiosTicketgure
-##  Step 7: Enable PHP Extensions
-##  Step 8: Configure osTicket
-##  Step 9: Set Up the Database
-##  Step 10: Finalize osTicket Installation
+-  **Step 1**: Create and Configure the Azure VM
+-  **Step 2**: Download osTicket Installation Files
+-  **Step 3**: Enable IIS and CGI in Windows
+-  **Step 4**: Install All Dependencies
+-  **Step 5**: Configure IIS and PHP
+-  **Step 6**: Install and ConfiosTicketgure
+-  **Step 7**: Enable PHP Extensions
+-  **Step 8**: Configure osTicket
+-  **Step 9**: Set Up the Database
+-  **Step 10**: Finalize osTicket Installation
 <h2>Installation Steps</h2>
 
 <p>
