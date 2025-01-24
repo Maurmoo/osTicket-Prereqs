@@ -181,7 +181,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-## Step 6: Install and ConfiosTicketgure 
+## Step 6: Install and Configure osTicket 
 ## Deploy osTicket Files
 ![image](https://github.com/user-attachments/assets/46300533-5c07-4cf2-8443-4fdb9475aaff)
 
